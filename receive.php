@@ -89,11 +89,11 @@
 
 ?>
 
-名前:<?php    echo $myname; ?>
+名前:<? echo $myname; ?>
 <br>
-年齢:<?php  	echo $age; ?> 
+年齢:<? echo $age; ?> 
 <br>
-エラー:<?php  echo $err; ?>  
+エラー:<? echo $err; ?>  
 
 </body>
 </html>
